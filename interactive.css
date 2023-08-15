@@ -57,7 +57,7 @@ body{
   cursor:pointer;
 }
 .box:focus{
-  background-color: rgba(230, 116, 10, 0.932);
+  background-color: hsl(227, 37%, 36%);
 }
 
 .box:active{
